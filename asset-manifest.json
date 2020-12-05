@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Practice-App/static/css/main.5fcad9f9.chunk.css",
+    "main.js": "/React-Practice-App/static/js/main.3d843445.chunk.js",
+    "main.js.map": "/React-Practice-App/static/js/main.3d843445.chunk.js.map",
+    "runtime-main.js": "/React-Practice-App/static/js/runtime-main.aa0b207b.js",
+    "runtime-main.js.map": "/React-Practice-App/static/js/runtime-main.aa0b207b.js.map",
+    "static/js/2.851a2243.chunk.js": "/React-Practice-App/static/js/2.851a2243.chunk.js",
+    "static/js/2.851a2243.chunk.js.map": "/React-Practice-App/static/js/2.851a2243.chunk.js.map",
+    "index.html": "/React-Practice-App/index.html",
+    "static/css/main.5fcad9f9.chunk.css.map": "/React-Practice-App/static/css/main.5fcad9f9.chunk.css.map",
+    "static/js/2.851a2243.chunk.js.LICENSE.txt": "/React-Practice-App/static/js/2.851a2243.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-Practice-App/static/media/football-stadium.a05e63f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa0b207b.js",
+    "static/js/2.851a2243.chunk.js",
+    "static/css/main.5fcad9f9.chunk.css",
+    "static/js/main.3d843445.chunk.js"
+  ]
+}
